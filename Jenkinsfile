@@ -1,6 +1,6 @@
 pipeline {
   environment {
-    imagename = "For_Lesson3/jenkins"
+    imagename = "For_Lesson3/For_Lesson"
     registryCredential = 'dockerhub_id'
     dockerImage = ''
   }
